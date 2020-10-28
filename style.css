@@ -1,0 +1,16 @@
+/*
+THeme Name:Cat theme
+Author: ALi AL-BOlad
+*/
+
+
+body {
+    background: grey;
+}
+
+header{
+    background: #fff;
+    width: 100%;
+    height: 100px;
+}
+
